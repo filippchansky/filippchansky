@@ -1,4 +1,4 @@
-<a href="https://github.com/filippchansky" style={{display: 'flex'}}>
+<a href="https://github.com/filippchansky">
   <img src='https://i.giphy.com/26tn33aiTi1jkl6H6.webp' alt="
       siberiacancode" align="center"/>
 </a>
