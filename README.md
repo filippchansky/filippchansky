@@ -1,5 +1,5 @@
-<a href="https://github.com/siberiacancode">
-  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
+<a href="https://github.com/filippchansky">
+  <img src='https://i.giphy.com/26tn33aiTi1jkl6H6.webp' alt="
       siberiacancode" align="center"/>
 </a>
 
