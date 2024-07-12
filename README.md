@@ -1,7 +1,7 @@
-<a href="https://github.com/filippchansky">
+<!-- <a href="https://github.com/filippchansky">
   <img src='https://i.giphy.com/26tn33aiTi1jkl6H6.webp' alt="
       siberiacancode" align="center"/>
-</a>
+</a> -->
 
 <h1 align="left">:wave: Hello there! I'm Chertkov Filipp</h1>
 
