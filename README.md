@@ -11,7 +11,7 @@
 
 Frontend Developer from Siberia 🧊
 
-- :office: &nbsp;I'm currently working at **[ClickHead](https://clickhead.me/)**
+- :office: &nbsp;I'm currently working at **[Лига Цифровых Технологий](https://www.digitalleague.ru/)**
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/filippchansky)**
 
